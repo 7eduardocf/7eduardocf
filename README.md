@@ -18,6 +18,6 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&hide=issues&theme=dark&border_radius=10&rank_icon=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7eduardocf&show_icons=true&hide=issues&theme=dark&border_radius=10&rank_icon=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7eduardocf&layout=compact&theme=dark&border_radius=10)
