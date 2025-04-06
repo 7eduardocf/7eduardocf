@@ -18,7 +18,5 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=7eduardocf&show_icons=true&theme=chartreuse-dark&rank_icon=default&count_private=true&hide_title=true&hide_border=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=7eduardocf&show_icons=true&theme=chartreuse-dark&rank_icon=default&count_private=true&hide_title=true&hide_border=true" height="165">  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7eduardocf&layout=compact&theme=chartreuse-dark&hide_border=true" height="165">
-</p>
