@@ -16,12 +16,9 @@
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📊 Github Stats
-
 ## 📊 GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=7eduardocf&show_icons=true&theme=chartreuse-dark&rank_icon=default&count_private=true&hide_title=true&hide_border=true" width="45%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7eduardocf&layout=compact&theme=chartreuse-dark&hide_border=true" width="45%" />
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+<img src="https://github-readme-stats.vercel.app/api?username=7eduardocf&show_icons=true&theme=chartreuse-dark&rank_icon=default&count_private=true&hide_title=true&hide_border=true" height="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7eduardocf&layout=compact&theme=chartreuse-dark&hide_border=true" height="200" />
 </div>
-
